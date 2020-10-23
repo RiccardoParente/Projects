@@ -1,3 +1,3 @@
 # Tris game
 
-Simple terminal tris game made with Java.
+Simple terminal tic-tac-toe game made with Java.
